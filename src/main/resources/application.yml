@@ -1,3 +1,2 @@
 greeting:
-  message: "hello"
-  name: "quarkus"
+  defaultName: "quarkus"
